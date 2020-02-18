@@ -1,0 +1,22 @@
+{
+    "name": "nguyen930411/laravel-thumbnailable",
+    "description": "Laravel Thumbnailable Model",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nguyen930411",
+            "email": "angel_demon120@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "intervention/image": "*",
+		"ps/image-optimizer": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nguyen930411\\Thumbnailable\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
