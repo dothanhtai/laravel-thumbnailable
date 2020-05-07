@@ -2,5 +2,5 @@
 
 ## Install
 ```
-composer require nguyen930411/laravel-thumbnailable
+composer require dothanhtai/laravel-thumbnailable
 ```
