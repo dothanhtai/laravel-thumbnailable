@@ -1,4 +1,4 @@
-<?php namespace Nguyen930411\Thumbnailable;
+<?php namespace Dothanhtai\Thumbnailable;
 
 use Illuminate\Support\ServiceProvider;
 

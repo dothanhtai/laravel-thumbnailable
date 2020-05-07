@@ -1,5 +1,5 @@
 <?php
-namespace Nguyen930411\Thumbnailable;
+namespace Dothanhtai\Thumbnailable;
 
 use File;
 use Illuminate\Database\Eloquent\Model;
